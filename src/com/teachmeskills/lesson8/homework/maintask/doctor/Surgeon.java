@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson8.homework.doctor;
+package com.teachmeskills.lesson8.homework.maintask.doctor;
 
 // Класс Хирург, наследующийся от класса Доктор
 public class Surgeon extends Doctor {

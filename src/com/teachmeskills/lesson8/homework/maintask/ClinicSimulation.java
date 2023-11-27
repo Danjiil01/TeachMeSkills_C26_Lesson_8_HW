@@ -1,6 +1,6 @@
-package com.teachmeskills.lesson8.homework;
+package com.teachmeskills.lesson8.homework.maintask;
 
-import com.teachmeskills.lesson8.homework.patient.Patient;
+import com.teachmeskills.lesson8.homework.maintask.patient.Patient;
 
 import java.util.Scanner;
 

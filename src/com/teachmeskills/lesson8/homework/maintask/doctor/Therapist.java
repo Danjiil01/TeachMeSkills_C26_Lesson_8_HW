@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson8.homework.doctor;
+package com.teachmeskills.lesson8.homework.maintask.doctor;
 
 // Класс Терапевт, наследующийся от класса Доктор
 public class Therapist extends Doctor{

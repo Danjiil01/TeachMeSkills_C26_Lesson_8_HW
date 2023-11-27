@@ -1,9 +1,9 @@
-package com.teachmeskills.lesson8.homework.patient;
+package com.teachmeskills.lesson8.homework.maintask.patient;
 
-import com.teachmeskills.lesson8.homework.doctor.Dentist;
-import com.teachmeskills.lesson8.homework.doctor.Doctor;
-import com.teachmeskills.lesson8.homework.doctor.Surgeon;
-import com.teachmeskills.lesson8.homework.doctor.Therapist;
+import com.teachmeskills.lesson8.homework.maintask.doctor.Dentist;
+import com.teachmeskills.lesson8.homework.maintask.doctor.Doctor;
+import com.teachmeskills.lesson8.homework.maintask.doctor.Surgeon;
+import com.teachmeskills.lesson8.homework.maintask.doctor.Therapist;
 
 // Класс Пациент
 public class Patient {
